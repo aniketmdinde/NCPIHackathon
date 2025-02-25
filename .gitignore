@@ -6,3 +6,4 @@ backend/node_modules
 
 ai/.env
 ai/app/__pycache__
+ai/venv
